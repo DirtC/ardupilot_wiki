@@ -121,6 +121,8 @@ your current directory:
 ::
 
     cd droneapi-python/examples
+    or
+    cd dronekit-python\examples
 
 Starting MAVProxy
 -----------------
